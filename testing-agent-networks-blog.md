@@ -1,4 +1,4 @@
-# Testing Agent Networks: Can You Trust What They Return?
+# Improving Agent Networks: What Actually Worked
 
 
 Neuro-san-studio's vibe coding support makes building multi-agent systems easier than ever. A working agent network can be assembled from a natural language prompt in minutes. But ease of construction does not guarantee correctness of output. **Can you trust what it returns?**
